@@ -1,6 +1,6 @@
 # website
 
-<div><div style="float:left;height:150px;width:300px;"><img src="bot.jpg"></div>Текст ntrcn Текст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcn</div>
+<div><div style="float:left;height:150px;width:300px;margin:10px;"><img src="bot.jpg"></div>Текст ntrcn Текст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcnТекст ntrcn</div>
 
 <br>
 Обратная связь
